@@ -1,0 +1,7 @@
+main: me.AndreiWasFound.PrivateVault.Main
+author: AndreiWasFound
+name: PrivateVault
+version: 1.0
+
+commands:
+  pv:
